@@ -18,4 +18,8 @@ sfhf
 wrt
 as
 fb
+<<<<<<< HEAD
 same line changed in local repository
+=======
+line changes
+>>>>>>> aa8ed86c74eab272cd04184a1932aad31cfbdbfd
